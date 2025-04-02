@@ -1,2 +1,3 @@
 # CSV_Conversion_GradeA
-Attempt to convert csv file into useable information for UI ordering system for senior project 
+## Senior Project
+Attempt to convert csv file from Catering software into useable information for prepping/cooking area for UI on Tablet's at work stations
